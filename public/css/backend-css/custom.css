@@ -1,0 +1,29 @@
+.box{
+    font-weight:normal;
+    font-size:14px;
+    font-family: "Source Sans Pro", sans-serif !important;
+}
+
+.pink{
+  color: #f1b8c4 !important;
+}
+.settings-heading{
+  padding-top:10px;
+  margin-bottom: 30px;
+}
+.blue{
+  background-color: #00AAFF !important;
+}
+
+.passbtn{
+  background-color:#00AAFF !important;
+  color:white !important;
+}
+.white-box{font-family: "Source Sans Pro", sans-serif;background:white;padding:25px;margin-bottom:30px}.white-box .box-title{margin:0 0 12px;text-transform:uppercase;font-size:15px}
+
+
+  .analytics-info .list-inline{margin-bottom:0}.analytics-info .list-inline li{vertical-align:middle}.analytics-info .list-inline li span{font-size:15px}.analytics-info .list-inline li i{font-size:15px}
+
+.form-horizontal .form-group{margin-bottom:25px;}
+
+  .form-material .form-group{overflow:hidden}.form-material .form-control{background-color:rgba(0,0,0,0);background-position:center bottom,center calc(99%);background-repeat:no-repeat;background-size:0 2px,100% 1px;padding:0;transition:background 0s ease-out 0s}.form-material .form-control,.form-material .form-control.focus,.form-material .form-control:focus{background-image:linear-gradient(#00AAFF,#00AAFF),linear-gradient(rgba(120,130,140,.13),rgba(120,130,140,.13));border:0;border-radius:0;box-shadow:none;float:none}.form-material .form-control.focus,.form-material .form-control:focus{background-size:100% 2px,100% 1px;outline:0;transition-duration:.3s}.form-bordered .form-group{border-bottom:1px solid rgba(120,130,140,.13);padding-bottom:20px}
